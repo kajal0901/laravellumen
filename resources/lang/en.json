@@ -1,0 +1,17 @@
+{
+  "login_success": "Login Successful",
+  "password_reset_success": "Password reset instructions has been sent on your email!",
+  "new_password_updated": "Your password has been changed successfully!",
+  "invalid_credential": "The user credentials were incorrect.",
+  "register_success": "Registration email sent to :email. Open this email to finish signup.",
+  "unauthorized": "Unauthorized",
+  "password_not_match_with_old_password": "Your current password does not matches with the password you provided. Please try again.",
+  "password_not_match_with_new_password": "New Password cannot be same as your current password. Please choose a different password.",
+  "password_changed_success": "Your password has been changed successfully!",
+  "profile_updated": "Profile updated",
+  "reset_password_notification": "Reset Password Notification",
+  "email_address_not_verified": "Your email address is not verified.",
+  "email_already_verified": "This email address has already been verified",
+  "email_verification_success": "Your email has been verified and account has been activated now.",
+  "user_with_email_not_found": "We can't find a user with the given e-mail address."
+}
